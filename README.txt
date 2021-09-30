@@ -1,3 +1,5 @@
+This project is a console application that simulates NTU's course registration system, including login, creation of new indexes for courses, course registration, managenent of clashes in timetable, index swapping between different students, seeing vacancies for courses etc.
+
 Database information: 
 1. Staff 
 	username - ADMIN1 | password - ADMIN1
@@ -13,6 +15,4 @@ Database information:
 	Code - HE9091 | IndexList: 30001, 30002
 	Code - MH3300 | IndexList: 40001, 40002
 
-There is more data in the files already. The aforementioned set of data is the most relevant one and has been used for testing purposes. 
-
-Thank you.
+There is more data in the files already. The aforementioned set of data is the most relevant one and has been used for testing purposes.
